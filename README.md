@@ -52,5 +52,5 @@ Technologies used in the project:
 ### Contributors
 
 - [Vachaspathi Gnaneswar](https://github.com/vachaspathi6)
-- [Venkataramana Baratam](https://github.com/venkataramanabaratam2)
+- [Venkataramana Baratam](https://github.com/venkataramanabaratam1)
 - [Suraj Kumar](https://github.com/surajk7725)
